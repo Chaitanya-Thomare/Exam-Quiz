@@ -1,5 +1,5 @@
-`<Advanced Version Here>` : [Click Here](https://github.com/CodeBreaker444/online-quiz-application-written-in-java-with-jdbc-using-swing-splashscreen-login-register-quiz_timer).
-# Online l3kh@_QUIZ Application written in java with jdbc using swing components  
+
+# Online QUIZ Application written in java with jdbc using swing components  
 ## Features
 - Login.
 - Registration.
@@ -12,8 +12,7 @@
 - Eclipse IDE(As it is a Eclipse Source Folder).
 - MySQL(We have used MySql Workbench to Create tables).
 ##  Provided Files:
-- Eclipse Project Folder > l3kh@_QUIZ
-- Pre-Compiled Runnable Jar File > l3kh@_QUIZ_using_JDBC.jar
+- Eclipse Project Folder >QUIZ
 - Screenshots
 ## MySql Column Names:
 ```
@@ -25,17 +24,13 @@ passwd
 ```
 ## Instructions to Import into Eclipse:
 `Eclipse > File >Open projects from filesystem > Directory > Now Select the l3kh@_QUIZ folder`
+## Function
+'
+This project is basically used to conduct an online Test which will register students in the MYSQL database.
+and conduct the test
 
-## Screenshots
-![](https://github.com/srilekhadasari/online-quiz-in-java-with-jdbc-using-swing-login-registration-timer/blob/master/Screenshots/online-login.png)
-![](https://github.com/srilekhadasari/online-quiz-in-java-with-jdbc-using-swing-login-registration-timer/blob/master/Screenshots/online-register.png)
-![](https://github.com/srilekhadasari/online-quiz-in-java-with-jdbc-using-swing-login-registration-timer/blob/master/Screenshots/offline-login.png)
-> This above is an Offline Screenshot of the Application。
-
-![](https://github.com/srilekhadasari/online-quiz-in-java-with-jdbc-using-swing-login-registration-timer/blob/master/Screenshots/questions-quiz.png)
-![](https://github.com/srilekhadasari/online-quiz-in-java-with-jdbc-using-swing-login-registration-timer/blob/master/Screenshots/results-quiz.png)
-![](https://github.com/srilekhadasari/online-quiz-in-java-with-jdbc-using-swing-login-registration-timer/blob/master/Screenshots/answers-quiz.png)
-
-
-
-`<Advanced Version Here>` : [Click Here](https://github.com/CodeBreaker444/online-quiz-application-written-in-java-with-jdbc-using-swing-splashscreen-login-register-quiz_timer).
+##This project features 
+A 1 minute quick timer within which the user has to complete the quiz .
+at the end of the time oor when all quetions are solved the result is shown with answer correct and incorrect.
+there is also an option to check all thecorrect answers in show answer tab.
+all teh screenshot are provided within the screenshot tab.
