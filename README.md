@@ -27,11 +27,8 @@ passwd
 ## Function
 '
 This project is basically used to conduct an online Test which will register students in the MYSQL database.
-and conduct the test
-
-##This project features 
-'
-A 1 minute quick timer within which the user has to complete the quiz .
+and conduct the test.
+This project features a 1 minute quick timer within which the user has to complete the quiz .
 at the end of the time oor when all quetions are solved the result is shown with answer correct and incorrect.
 there is also an option to check all thecorrect answers in show answer tab.
 all teh screenshot are provided within the screenshot tab.
